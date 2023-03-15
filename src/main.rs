@@ -1,9 +1,9 @@
 #![allow(dead_code)]
 
+mod rustbook;
 // mod supervillian;
 // mod test_from_file;
 
-mod rustbook;
 
 fn main() {
     println!("Hello, world!");
